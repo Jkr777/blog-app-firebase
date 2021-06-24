@@ -1,4 +1,4 @@
-I created this demo app when I was learing firebase
+just a demo app, using firebase and react.js
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
